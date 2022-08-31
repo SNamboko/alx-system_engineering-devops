@@ -1,11 +1,2 @@
 #!/bin/bash 
-Applications 
-Desktop
-Documents
-Downloads
-Dropbox
-Library
-Movies
-Music
-Pictures  
-Public
+Applications    Documents   Dropbox Movies Pictures Desktop Downloads   Library Music Public
