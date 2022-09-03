@@ -1,7 +1,7 @@
 
 
-All my scripts were to be exactly two lines long ($ wc -l file should print 2)
-The first line of all my files were to be exactly #!/bin/bash
+	All my scripts were to be exactly two lines long ($ wc -l file should print 2)
+	The first line of all my files were to be exactly #!/bin/bash
 		
 		TASKS
 
