@@ -16,4 +16,9 @@ File: 4-lastlines
 	5. I'd prefer the first ones actually
 Display the first 10 lines of /etc/passwd
 File: 5-firstlines
+	6. Line #2
+A script that displays the third line of the file iacta.
+The file iacta will be in the working directory.
+Note: The output will differ, depending on the content of the file iacta.
+File: 6-third_line
 
