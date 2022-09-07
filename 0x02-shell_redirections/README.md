@@ -67,4 +67,6 @@ File: 18-letteronly
 	19. A to Z
 Replace all characters A and c from input to Z and e respectively.
 File: 19-AZ
-
+	20. Without C, you would live in hiago
+A script that removes all letters c and C from input.
+File: 20-hiago
