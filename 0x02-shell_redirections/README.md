@@ -64,4 +64,7 @@ File: 17-hidethisword
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 Include capital letters as well.
 File: 18-letteronly
+	19. A to Z
+Replace all characters A and c from input to Z and e respectively.
+File: 19-AZ
 
