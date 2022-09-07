@@ -48,4 +48,7 @@ Input format: One line, one word
 Output format: One line, one word
 Words should be sorted
 File: 13-unique
+	14. It must be in that file
+Display lines containing the pattern “root” from the file /etc/passwd
+File: 14-findthatword
 
