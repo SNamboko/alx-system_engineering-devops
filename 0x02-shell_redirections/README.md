@@ -42,4 +42,10 @@ File: 11-directories
 	12. What’s new
 A script that displays the 10 newest files in the current directory. One file per line, Sorted from the newest to the oldest
 File: 12-newest_files
+	13. Being unique is better than being perfect
+A script that takes a list of words as input and prints only words that appear exactly once.
+Input format: One line, one word
+Output format: One line, one word
+Words should be sorted
+File: 13-unique
 
