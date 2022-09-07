@@ -9,4 +9,8 @@ File: 1-hello_you
 	2. The path to success is to take massive, determined action
 To add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 File: 2-path
+	3. If the path be beautiful, let us not ask where it leads
+A script that counts the number of directories in the PATH.
+File: 3-paths
+
 
