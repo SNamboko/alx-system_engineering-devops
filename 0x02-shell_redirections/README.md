@@ -54,4 +54,7 @@ File: 14-findthatword
 	15. Count that word
 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 File: 15-countthatword
+	16. What's next?
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+File: 16-whatsnext
 
