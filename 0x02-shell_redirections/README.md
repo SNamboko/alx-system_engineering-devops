@@ -70,3 +70,7 @@ File: 19-AZ
 	20. Without C, you would live in hiago
 A script that removes all letters c and C from input.
 File: 20-hiago
+	21. esreveR
+A script that reverse its input.
+File: 21-reverse
+
