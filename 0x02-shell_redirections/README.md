@@ -31,4 +31,7 @@ File: 8-cwd_state
 A script that duplicates the last line of the file iacta
 The file iacta will be in the working directory
 File: 9-duplicate_last_line
+	10. No more javascript
+A script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+File: 10-no_more_js
 
